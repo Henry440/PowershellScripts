@@ -1,6 +1,6 @@
 # PowershellScripts
 
-##cleaner
+## cleaner
 3 Vars can be Edit
 TargetDir -> Define the end position of the Files
 CleanDir  -> Is the Directory that should be cleared
